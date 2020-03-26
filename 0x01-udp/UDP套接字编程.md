@@ -8,7 +8,7 @@
 
 UDP协议（用户数据报协议）是面向报文（无连接）的传输协议。无连接也就意味着传输不可靠（出错、丢包不重传），同时它的传输效率相对于TCP来说是很高的。通常应用在对数据准确信要求较低、速度快的领域，比如QQ，在线视频。
 
-![使用UDP的客户-服务器程序](C:\Users\gageshan\AppData\Roaming\Typora\typora-user-images\image-20200326000455307.png)
+![使用UDP的客户-服务器程序](https://img-blog.csdnimg.cn/20200326141718357.png)
 
 client:
 ```python
